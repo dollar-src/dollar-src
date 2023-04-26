@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 -- ⚡ Fun fact: ...
 -->
 
-<img src ="https://github-readme-stats.vercel.app/api?username=dollar-src&show_icons=true&theme=radical">
+<img src ="http://github-readme-streak-stats.herokuapp.com?user=dollar-src&theme=dark&background=000000">
