@@ -17,6 +17,8 @@
 
 
 ---
+[![](https://visitcount.itsvg.in/api?id=dollar-src&label=Profile%20Views&pretty=false)](https://visitcount.itsvg.in)
+
 [![](https://visitcount.itsvg.in/api?id=dollar-src&icon=2&color=8)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
