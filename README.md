@@ -1,52 +1,94 @@
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/tebex)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@sourcedevfivem)
+<div align="center">
 
----
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=220&section=header&text=dollar-src&fontSize=55&fontColor=F0F6FC&animation=fadeIn&fontAlignY=38&desc=Software%20Developer&descAlignY=58&descSize=18"
+/>
 
-# 💻 Tech Stack:
+<br>
 
-![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tebex)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@sourcedevfivem)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/dollar-src)
 
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+</div>
 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+## About
 
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+Software developer focused on building clean, performant and maintainable applications.
 
----
+Mainly working with Lua, TypeScript, JavaScript and C#, alongside modern web technologies and database systems.
 
-# 📊 GitHub Stats:
+## Tech Stack
 
-![](https://github-readme-stats.vercel.app/api?username=dollar-src&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+### Languages
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=dollar-src&theme=dark&hide_border=true)
+<p>
+  <img src="https://skillicons.dev/icons?i=lua,cs,ts,js,python,html,css&theme=dark" />
+</p>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=dollar-src&theme=dark&hide_border=true&layout=compact)
+### Frameworks & Runtime
 
----
+<p>
+  <img src="https://skillicons.dev/icons?i=vue,svelte,nodejs&theme=dark" />
+</p>
 
-## 🏆 GitHub Trophies
+### Databases
 
-![](https://github-profile-trophy.vercel.app/?username=dollar-src&theme=radical&no-frame=true&margin-w=6)
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&theme=dark" />
+  <img height="48" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+</p>
 
----
+### Design
 
-### ✍️ Random Dev Quote
+<p>
+  <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
+  <img height="48" src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" />
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## GitHub Statistics
 
----
+<div align="center">
 
-[![](https://visitcount.itsvg.in/api?id=dollar-src&icon=2&color=8)](https://visitcount.itsvg.in)
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=dollar-src&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=238636&text_color=C9D1D9"
+/>
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollar-src&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"
+/>
+
+</div>
+
+<div align="center">
+
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dollar-src&theme=github-dark-blue&hide_border=true&background=0D1117"
+/>
+
+</div>
+
+## Contribution Activity
+
+<div align="center">
+
+<img
+  width="100%"
+  src="https://github-readme-activity-graph.vercel.app/graph?username=dollar-src&bg_color=0D1117&color=C9D1D9&line=238636&point=58A6FF&area=true&hide_border=true"
+/>
+
+</div>
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=dollar-src&style=flat-square&color=238636&label=PROFILE+VIEWS" />
+
+</div>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:238636&height=100&section=footer"
+/>
