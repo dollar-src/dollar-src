@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
+<br><br>
+
+<img
+  src="https://komarev.com/ghpvc/?username=dollar-src&label=Profile%20Views&color=238636&style=flat-square"
+/>
+
 </div>
 
 ---
@@ -49,7 +55,7 @@ Mainly working with Lua, TypeScript, JavaScript and C#, alongside frontend, back
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,dotnet&theme=dark&perline=6" />
+<img src="https://skillicons.dev/icons?i=nodejs,dotnet,npm,pnpm&theme=dark&perline=6" />
 
 <br><br>
 
@@ -61,7 +67,7 @@ Mainly working with Lua, TypeScript, JavaScript and C#, alongside frontend, back
 
 ### Tools
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,npm,pnpm,docker&theme=dark&perline=8" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,postman,docker&theme=dark&perline=6" />
 
 <br><br>
 
@@ -78,37 +84,7 @@ Mainly working with Lua, TypeScript, JavaScript and C#, alongside frontend, back
 <div align="center">
 
 <img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dollar-src&theme=github_dark"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=dollar-src&theme=github_dark"
-/>
-
-<br>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dollar-src&theme=github_dark"
-/>
-
-<img
-  width="49%"
-  src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=dollar-src&theme=github_dark&utcOffset=3"
-/>
-
-</div>
-
----
-
-## Profile Summary
-
-<div align="center">
-
-<img
-  width="98%"
+  width="100%"
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dollar-src&theme=github_dark"
 />
 
@@ -116,18 +92,41 @@ Mainly working with Lua, TypeScript, JavaScript and C#, alongside frontend, back
 
 ---
 
+## Most Used Languages
+
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=dollar-src&label=Profile%20Views&color=238636&style=flat-square" />
+<img
+  width="55%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=dollar-src&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&langs_count=8"
+/>
 
-<br><br>
+</div>
+
+---
+
+## Connect
+
+<div align="center">
 
 <a href="https://discord.gg/tebex">
-  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=flat-square&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/Discord-Join%20Server-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
 <a href="https://www.youtube.com/@sourcedevfivem">
-  <img src="https://img.shields.io/badge/YouTube-SourceDev-FF0000?style=flat-square&logo=youtube&logoColor=white" />
+  <img src="https://img.shields.io/badge/YouTube-SourceDev-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
+
+<a href="https://github.com/dollar-src">
+  <img src="https://img.shields.io/badge/GitHub-dollar--src-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+<sub>Building clean code, modern interfaces and reliable systems.</sub>
 
 </div>
